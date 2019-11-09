@@ -1,2 +1,2 @@
 # a--maze-solver
-Solves mazes with given maze image
+Solves mazes with given maze images
