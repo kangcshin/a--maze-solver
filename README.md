@@ -10,13 +10,13 @@ With given input image or a maze, the algorithm uses A* search find a path from 
 Clone Repository:
 
 ```
-git clone https://github.com/kangcshin/a-star-maze-solver.git
+$ git clone https://github.com/kangcshin/a-star-maze-solver.git
 ```
 
 Run:
 
 ```
-python a_star.py
+$ python a_star.py
 ```
 
 ## Usage example
